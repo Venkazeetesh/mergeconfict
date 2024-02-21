@@ -1,5 +1,5 @@
 package gitmerge;
 
 public record main() {
-    //First merge
+    //should resolved after confict  merge
 }
